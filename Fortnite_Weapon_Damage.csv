@@ -1,4 +1,4 @@
-;Rarity;Fire Rate;Mag Size;Reload Time;Multiplier;Damage (Body);Damage (Head);DPS (Body);DPS (Head);Shots/Kill Avg (Body);Shots/Kill Avg (Head)
+#;Rarity;Fire Rate;Mag Size;Reload Time;Multiplier;Damage (Body);Damage (Head);DPS (Body);DPS (Head);Shots/Kill Avg (Body);Shots/Kill Avg (Head)
 Assault Rifle (M4);Common;5,5;30;2,3;2;30;60;165;330;4,75;2,75
 Assault Rifle (M4);Uncommon;5,5;30;2,2;2;31;62;170,5;341;4,75;2,75
 Assault Rifle (M4);Rare;5,5;30;2,2;2;33;66;181,5;363;4,75;2,75
